@@ -1,7 +1,7 @@
 # 💫 About Me:
 -flutter app development fullstack dev <br />
 -front end web using css or tailwind css <br />
--game developer using the unity game engine <br />
+-game developement using the unity game engine <br />
 -asset moduling using blender<br />
 
 
